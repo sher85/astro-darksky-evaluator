@@ -42,8 +42,8 @@ Radiance values (nW/cm²/sr) are approximated to Bortle classes:
 | < 0.25         | 1–2    | 🌑 Pristine |
 | 0.25–1.0       | 3–4    | 🌘 Great    |
 | 1.0–3.0        | 5–6    | 🌗 Decent   |
-| 3.0–10.0       | 7–8    | 🌒 Poor     |
-| > 10.0         | 9      | 🌓 Awful    |
+| 3.0–10.0       | 7–8    | 🌕 Poor     |
+| > 10.0         | 9      | 🌕 Awful    |
 
 ## Notes
 
